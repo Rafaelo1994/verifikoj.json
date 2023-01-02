@@ -1,0 +1,2 @@
+# verifikoj.json
+rafi.json
